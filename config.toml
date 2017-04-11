@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "https://www.stackinetics.com/"
 title = "Elate theme"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
@@ -9,9 +9,9 @@ theme = "hugo-elate-theme"
   custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
-  author = ""
-  description = ""
-  email = ""
+  author = "Stackinetics, Inc"
+  description = "Website"
+  email = "hey@stackinetics.com"
   # Navigation
   [params.navigation]
     brand = "Elate"
